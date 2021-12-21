@@ -105,6 +105,11 @@ export default class Main extends Component {
           handleEdit={this.handleEdit}
           tarefas={tarefas}
         />
+  
+        <footer class="footer">
+        <p><a href="https://github.com/Netlonde?tab=repositories" target="_blank">Made with <span class="heart">♥</span>
+                by Carlos César :)</a></p>
+       </footer>
 
       </div>
     );
