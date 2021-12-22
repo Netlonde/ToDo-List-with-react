@@ -15,10 +15,10 @@
 
 # :rocket: Installation
 <ul>
-  <li><code>git clone https://github.com/Netlonde/ToDo-List-with-react</code></li> 
-  <li><code>cd ToDo-List-with-react</code></li>
-  <li><code>npm install</code></li>
-  <li><code>npm start</code></li>
+  <li><code>$ git clone https://github.com/Netlonde/ToDo-List-with-react</code></li> 
+  <li><code>$ cd ToDo-List-with-react</code></li>
+  <li><code>$ npm install</code></li>
+  <li><code>$ npm start</code></li>
 </ul>
 
 The application will open in the browser on http://localhost:3000
