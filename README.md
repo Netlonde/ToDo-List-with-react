@@ -1,19 +1,19 @@
                                                    Todo list with React
 
-# Technologies
+# :hammer_and_wrench: Technologies
 <ul>
   <li>JavaScript</li>
   <li>React</li>
   <li>CSS</li>
 </ul>
 
-# Requirements
+# :gear: Requirements
 
 <ul>
   <li>Git</li>
 </ul>
 
-# Installation
+# :rocket: Installation
 <ul>
   <li><code>git clone https://github.com/Netlonde/ToDo-List-with-react</code></li> 
   <li><code>cd ToDo-List-with-react</code></li>
@@ -23,7 +23,7 @@
 
 The application will open in the browser on http://localhost:3000
 
-# Deploy
+# :clapper: Deploy
 
 <ul>
   <li>
