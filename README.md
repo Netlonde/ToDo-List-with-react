@@ -4,7 +4,9 @@
 <ul>
   <li>JavaScript</li>
   <li>React</li>
-  <li>CSS</li>
+  <li>CSS3</li>
+  <li>Eslint</li>
+  <li>Webpack</li>
 </ul>
 
 # :gear: Requirements
